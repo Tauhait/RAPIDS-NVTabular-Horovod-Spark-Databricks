@@ -6,7 +6,7 @@ This repo contains my work based on my Nvidia internship as a Data Science Inter
 ⚡️ Improved distributed model training speed by 10% by converting the data loading pipeline from Uber Petastorm to
 NVTabular TensorFlow Keras Sequence Loader on Azure Databricks platform with RAPIDS - cuML and cuDF libraries.
 
-Worked on \textbf{data engineering aspect} of a Multi Step Time Series Forecasting problem with GPU accelerated stack on Nvidia GPU Cloud. Check out work: \faMedium\ \emph{\href{https://www.medium.com/@ai21mtech02002/e5c9e83ebd04}{\textcolor{blue}{Distributed Data Science using NVTabular on Spark \& Dask}}}
+Worked on **data engineering aspect** of a Multi Step Time Series Forecasting problem with GPU accelerated stack on Nvidia GPU Cloud. Check out work: ![https://www.medium.com/@ai21mtech02002/e5c9e83ebd04](Distributed Data Science using NVTabular on Spark \& Dask)
 
 Improved \textbf{distributed model training speed upto 10\%} thorugh the migration of the data loading pipeline from Petastorm to KerasSequenceLoader. \faGithub\ \emph{\href{https://www.github.com/Tauhait/RAPIDS-NVTabular-Horovod-Spark-Databricks}{\textcolor{blue}{RAPIDS-NVTabular-Horovod-Spark-Databricks}}}
 
